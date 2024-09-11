@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import tensorflow as tf
 
-
 from imutils import paths
 from sklearn.model_selection import train_test_split
 from keras.applications import DenseNet201
